@@ -1,0 +1,19 @@
+.icon-container {
+  transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+  padding: 10px; /* Add padding to make the circle larger */
+  width: 70px; /* Set a fixed width */
+  height: 70px; /* Set a fixed height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%; /* Create circular icons */
+}
+
+.icon-container:hover {
+  transform: scale(1.2); /* Add a zoom effect on hover */
+  box-shadow: 0 0 10px rgba(96, 234, 86, 0.588); /* Add a glowing shadow effect */
+}
+#Footer {
+  margin-top: 2rem; /* Adjust value as needed */
+}
+
