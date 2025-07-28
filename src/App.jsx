@@ -6,7 +6,6 @@ import Footer from "./components/Footer";
 import Health from "./components/Health";
 import Shop from "./components/Shop";
 import About from "./components/About";
-
 import CustomerReviews from "./components/Review"; // Ensure correct import path
 import Doctors from "./components/Doctors";
 
