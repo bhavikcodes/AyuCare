@@ -23,7 +23,7 @@ const App = () => {
             <Route path="/about" element={<About />} />
             
           </Routes>
-          <CustomerReviews /> {/* Keep inside Routes container */}
+          <CustomerReviews /> 
         </div>
         <Footer />
       </div>

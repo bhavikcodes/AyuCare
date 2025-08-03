@@ -28,7 +28,7 @@ const Footer = () => {
         <h1 className="text-2xl md:text-4xl font-bold">Contact Me</h1>
         <h3 className="text-sm md:text-xl font-normal flex justify-center md:justify-start items-center gap-2">
           <CiMail />
-          sakshamjain881@gmail.com
+          bj541023@gmail.com
         </h3>
       </div>
 
@@ -40,7 +40,7 @@ const Footer = () => {
       >
         <h3 className="text-sm md:text-xl font-normal">Feel Free To Reach Out!</h3>
         <h3 className="text-sm md:text-xl font-normal">
-          Developed and Designed by Saksham Jain
+          Developed and Designed by Bhavik Jain
         </h3>
       </div>
 
@@ -51,13 +51,13 @@ const Footer = () => {
         data-aos-anchor-placement="top-bottom"
       >
         <a
-          href="mailto:saksham70676@gmail.com"
+          href="mailto:bj541023@gmail.com"
           className="icon-container text-white hover:text-green-500"
         >
           <MdOutlineEmail size={30} />
         </a>
         <a
-          href="https://github.com/Saksham-glitch"
+          href="https://github.com/bhavikcodes"
           className="icon-container text-white hover:text-green-500"
           target="_blank"
           rel="noopener noreferrer"
@@ -65,7 +65,7 @@ const Footer = () => {
           <FaGithub size={30} />
         </a>
         <a
-          href="https://www.linkedin.com/in/saksham-jain-75baa8319/"
+          href="https://www.linkedin.com/in/bhavikxjain/"
           className="icon-container text-white hover:text-green-500"
           target="_blank"
           rel="noopener noreferrer"
